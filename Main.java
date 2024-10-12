@@ -14,7 +14,7 @@ public class Main {
         System.out.println(d || h);
         System.out.println(g || h);
 
-        int aa = 4;
+        int aa = 55;
         if (aa>7){
             System.out.println("Liczba jest wieksza od 7 i jest nią: "+aa);
         }
